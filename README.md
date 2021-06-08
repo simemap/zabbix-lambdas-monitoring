@@ -15,7 +15,7 @@
 <br />
 <p align="center">
   <a href="#">
-    <img src="https://github.com/simemap/zabbix-lambdas-monitoring/blob/main/img/Zabbix_Real_Time%20Web_APP.png" alt="Logo">
+    <img src="#" alt="Logo">
   </a>
 
   <h3 align="center">Monitoring system project</h3>
