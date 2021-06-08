@@ -1,0 +1,8 @@
+{
+  "name": "SciCan System Monitoring Simulator application using cron timer",
+  "version": "1.0.0",
+  "dependencies": {
+    "node-cron": "^2.0.3",
+    "node-zabbix-sender": "^1.1.0"
+  }
+}

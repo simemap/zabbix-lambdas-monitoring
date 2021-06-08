@@ -1,0 +1,1 @@
+The watchdog.js and zabbix-sender.js contains functions to be used inside the lambdas to send logs to zabbix

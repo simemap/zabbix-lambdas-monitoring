@@ -1,0 +1,16 @@
+version: '3'
+services:
+  frontend:
+    restart: unless-stopped
+    image: staticfloat/nginx-certbot
+    ports:
+      - 80:80/tcp
+      - 443:443/tcp
+    environment:
+      CERTBOT_EMAIL: liviu.nicolicioiu@synergogroup.net
+      # variable names are space-separated
+      ENVSUBST_VARS: FQDN
+      FQDN: wsmonitoring.scicanapi.com
+    volumes:
+      - ./etc/certbot/conf.d:/etc/nginx/user.conf.d:ro
+      - ./etc/certbot/letsencrypt:/etc/letsencrypt
