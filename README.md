@@ -14,8 +14,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://github.com/simemap/" alt="Logo">
+  <a href="#">
+    <img src="https://github.com/simemap/zabbix-lambdas-monitoring/blob/main/img/Zabbix_Real_Time%20Web_APP.png" alt="Logo">
   </a>
 
   <h3 align="center">Monitoring system project</h3>
@@ -144,7 +144,7 @@ See the [open issues](https://github.com/Scican-Ltd/zabixx-system-monitoring/iss
 [linkedin-url]: https://www.linkedin.com/company/coltene-whaledent/
 
 [product-screenshot]: zabbix/docs/img/screenshot.png
-[app-architecture]: zabbix-lambdas-monitoring/blob/main/img/Zabbix_Real_Time%20Web_APP.png
+[app-architecture]: https://github.com/simemap/zabbix-lambdas-monitoring/blob/main/img/Zabbix_Real_Time%20Web_APP.png
 
 
 The Zabbix documentation and management
