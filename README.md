@@ -68,7 +68,7 @@ For production, we recommend to use real a database and not a stateless one (und
 The docker orchestration management is done via Docker Compose, a simple docker orchestration tool.
 
 ### Architecture
-[![Web App Architecture][app-architecture]](https://github.com/Scican-Ltd/zabixx-system-monitoring)
+[![Web App Architecture][app-architecture]](https://github.com/simemap/zabbix-lambdas-monitoring/blob/main/img/Zabbix_Real_Time%20Web_APP.png)
 * [PROD setup](https://wsmonitoring.scicanapi.com/)
 * [Access to PROD admin account](https://s3.console.aws.amazon.com/s3/object/auth-keys-storage?region=us-east-1&prefix=monitoring-system/zabbix-admin-pass.txt)
 * [Source](https://github.com/Scican-Ltd/zabixx-system-monitoring)
@@ -144,7 +144,7 @@ See the [open issues](https://github.com/Scican-Ltd/zabixx-system-monitoring/iss
 [linkedin-url]: https://www.linkedin.com/company/coltene-whaledent/
 
 [product-screenshot]: zabbix/docs/img/screenshot.png
-[app-architecture]: zabbix/docs/img/architecture.png
+[app-architecture]: zabbix-lambdas-monitoring/blob/main/img/Zabbix_Real_Time%20Web_APP.png
 
 
 The Zabbix documentation and management
