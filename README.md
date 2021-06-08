@@ -15,7 +15,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="https://www.coltene.com/fileadmin/deepscreen_core/Public/images/logo.svg" alt="Logo">
+    <img src="" alt="Logo">
   </a>
 
   <h3 align="center">Monitoring system project</h3>
