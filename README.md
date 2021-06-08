@@ -15,7 +15,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="" alt="Logo">
+    <img src="https://github.com/simemap/" alt="Logo">
   </a>
 
   <h3 align="center">Monitoring system project</h3>
